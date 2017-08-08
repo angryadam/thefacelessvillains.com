@@ -360,15 +360,13 @@ ul.actions li:last-child {
 
 #error h2 {
 	color: white;
-	font-size: 1.5em;	
+	font-size: 1.5em;
 }
 
 @media screen and (max-width: 480px) {
 
 	#main {
 		min-width: 0;
-		width: 100%;
-		padding: 4em 2em 2.5em 2em ;
 	}
 }
 
